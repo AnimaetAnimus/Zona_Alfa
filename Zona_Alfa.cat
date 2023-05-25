@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="3585-8e73-6183-a70a" name="Game" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="33a2-9cbc-a958-335d" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <categoryEntries>
+    <categoryEntry id="fa53-b42e-ae30-f525" name="Crew" hidden="false"/>
+  </categoryEntries>
+  <forceEntries>
+    <forceEntry id="de2a-d62a-c748-170a" name="New ForceEntry" hidden="false">
+      <categoryLinks>
+        <categoryLink id="72dc-d9a4-1a43-f79a" name="Crew" hidden="false" targetId="8257-c0a3-7a35-d619" primary="false"/>
+      </categoryLinks>
+    </forceEntry>
+  </forceEntries>
+</catalogue>
